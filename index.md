@@ -1,7 +1,8 @@
-!http://www.eso.org/public/archives/images/screen/eso1208a.jpg!
+!(http://www.eso.org/public/archives/images/screen/eso1208a.jpg)
+
 ## Welcome to Brainhack UCalgary
 
-
+How to edit and format this page:
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
