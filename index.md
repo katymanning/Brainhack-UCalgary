@@ -5,7 +5,8 @@
 
 Preliminary Schedule:
 
-Day 1: Lecture Series
+###Day 1: Lecture Series
+
 -Introduction to MRI
 -Introduction to electrophys
 -Introduction to modeling
@@ -13,11 +14,13 @@ Day 1: Lecture Series
 -Introduction to machine learning
 -BIDS formatting and data sharing etc.
 
-Project Pitches
+###Project Pitches
+
 -Faculty and students present projects and problems that need to be solved 
 -Must provide data using hard drive or online repository
 
-Day 2 and 3: Brain Hackathon and tutorials
+###Day 2 and 3: Brain Hackathon and tutorials
+
 -Break into teams that work on a proposed project together (github to be used to share code)
 -Require outlets for multiple laptops, internet access, and room to work together, white boards, etc.
 -At the end of the weekend, present projects and progress and issues
