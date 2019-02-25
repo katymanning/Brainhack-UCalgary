@@ -1,4 +1,4 @@
-![](https://www.eso.org/public/archives/images/screen/eso1208a.jpg)
+![](https://i0.wp.com/curiosmos.com/wp-content/uploads/2018/11/Human-Brain-Giphy.gif?fit=425%2C254&ssl=1)
 
 ## Welcome to Brainhack UCalgary
 
