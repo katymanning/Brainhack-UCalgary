@@ -1,4 +1,4 @@
-![](https://i0.wp.com/curiosmos.com/wp-content/uploads/2018/11/Human-Brain-Giphy.gif?fit=425%2C254&ssl=1)
+![](https://i.imgur.com/7XzrRry.gif?noredirect)
 
 ## Welcome to Brainhack UCalgary
 
