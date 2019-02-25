@@ -5,7 +5,7 @@
 
 Preliminary Schedule:
 
-### Day 1: Lecture Series
+### Day 1: Lecture Series and Project Pitches
 
 - Introduction to MRI
 - Introduction to electrophys
@@ -13,9 +13,6 @@ Preliminary Schedule:
 - Introduction to programming
 - Introduction to machine learning
 - BIDS formatting and data sharing etc.
-
-### Project Pitches
-
 - Faculty and students present projects and problems that need to be solved 
 - Must provide data using hard drive or online repository
 
