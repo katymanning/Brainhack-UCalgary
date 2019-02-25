@@ -6,22 +6,23 @@
 Preliminary Schedule:
 
 Day 1: Lecture Series
-  -Introduction to MRI
-  -Introduction to electrophys
-  -Introduction to modeling
-  -Introduction to programming
-  -Introduction to machine learning
-  -BIDS formatting and data sharing etc.
+-Introduction to MRI
+-Introduction to electrophys
+-Introduction to modeling
+-Introduction to programming
+-Introduction to machine learning
+-BIDS formatting and data sharing etc.
 
 Project Pitches
-  -Faculty and students present projects and problems that need to be solved 
-  -Must provide data using hard drive or online repository
+-Faculty and students present projects and problems that need to be solved 
+-Must provide data using hard drive or online repository
 
 Day 2 and 3: Brain Hackathon and tutorials
-  -Break into teams that work on a proposed project together (github to be used to share code)
-  -Require outlets for multiple laptops, internet access, and room to work together, white boards
-  -
-
+-Break into teams that work on a proposed project together (github to be used to share code)
+-Require outlets for multiple laptops, internet access, and room to work together, white boards, etc.
+-At the end of the weekend, present projects and progress and issues
+-Creates an environment where multi-disciplinary students work together on hands-on projects
+-Quickly learn coding skills, problem-solving approaches, and form interdiscpinary collaborations at the trainee level that trickle up to the PI level
 
 
 How to edit and format this page:
